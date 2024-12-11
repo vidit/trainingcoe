@@ -1,2 +1,4 @@
 Chat Applications
 This My Chat Application 
+Video Calls
+Chatting Options
